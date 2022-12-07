@@ -15,7 +15,7 @@
 
 [关于防止遭受病毒气溶胶沿楼宇垂直系统入侵的一些措施建议](https://zhuanlan.zhihu.com/p/587386873)
 
-[免疫钉子户养成记（番外篇，海外钉子户经验汇总贴）](https://zhuanlan.zhihu.com/p/587091383
+[免疫钉子户养成记（番外篇，海外钉子户经验汇总贴）](https://zhuanlan.zhihu.com/p/587091383)
 
 
 
