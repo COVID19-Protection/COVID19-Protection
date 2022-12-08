@@ -10,6 +10,8 @@
 
 [新冠逃生指南](https://ailtariel.gitee.io/covid/?continueFlag=58e743bc8c677bd168dbe58a10f95ade)
 
+[[深挖洞广积粮] 免疫钉子户养成记 合订本](https://mp.weixin.qq.com/s/C8A3LlJ46cv_GsW4Q5tznQ)
+
 [共存区往事——如何保护自己，正常生活](https://zhuanlan.zhihu.com/p/579970078)
 
 [疫情防护指北：我在海外是如何进行COVID防护的](https://zhuanlan.zhihu.com/p/498187927)
