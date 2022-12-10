@@ -7,6 +7,7 @@
 
 本仓库仅提供相关防护信息的链接，不负责验证这些信息的完整性、准确性、时效性，不保证使用这些信息而获得的结果。对于因信息内容可能与实际情况不一致而导致的任何正面或负面影响，仓库管理者亦不承担任何责任或义务，请各位自行辨别。
 
+[个人和家庭与Covid共存的采购指南(我们该怎么准备的checklist)（持续更新中）](https://docs.qq.com/doc/DWW1Vd0ZTVUhkZWRY?groupUin=IO7GojFcHFjaf6HOkCaZ%252BQ%253D%253D&ADUIN=648039209&ADSESSION=1670567692&ADTAG=CLIENT.QQ.5929_.0&ADPUBNO=27255&_t=1670569778276)
 
 [新冠逃生指南](https://ailtariel.gitee.io/covid/?continueFlag=58e743bc8c677bd168dbe58a10f95ade)
 
